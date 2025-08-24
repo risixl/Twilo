@@ -1,4 +1,4 @@
-<img width="974" height="891" alt="image" src="https://github.com/user-attachments/assets/638d7684-b60e-4bcd-a149-70f73dded122" />
+<img width="250" height="500" alt="image" src="https://github.com/user-attachments/assets/638d7684-b60e-4bcd-a149-70f73dded122" />
 ```markdown
 # 💬 Simple React Messaging App
 
