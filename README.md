@@ -1,6 +1,4 @@
 <img width="900" height="950" alt="image" src="https://github.com/user-attachments/assets/638d7684-b60e-4bcd-a149-70f73dded122" />
-
-```
 # 💬 Simple React Messaging App
 
 A modern, responsive, and interactive **messaging app** built with **React**. This project allows users to enter a static username, send messages, and view a chat feed in a clean, visually appealing interface. Ideal as a learning project or a base for a full-fledged chat application.
