@@ -1,4 +1,4 @@
-<img width="940" height="954" alt="image" src="https://github.com/user-attachments/assets/638d7684-b60e-4bcd-a149-70f73dded122" />
+<img width="840" height="854" alt="image" src="https://github.com/user-attachments/assets/638d7684-b60e-4bcd-a149-70f73dded122" />
 ```markdown
 # 💬 Simple React Messaging App
 
@@ -7,6 +7,7 @@ A modern, responsive, and interactive **messaging app** built with **React**. Th
 ---
 
 ## 🚀 Features
+<img width="889" height="891" alt="image" src="https://github.com/user-attachments/assets/e5054837-2933-4665-8710-3c09513fbf62" />
 
 - Enter a **username once**, which remains static during the session.
 - Send and display **messages** in a chat feed.
